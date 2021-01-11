@@ -16,7 +16,7 @@ Information leakage
 
 > ucms/top.php:2
 
-![image-20210111163037671](C:\Users\grq\AppData\Roaming\Typora\typora-user-images\image-20210111163037671.png)
+![image-20210111163037671](https://github.com/Gingsguard/ucms/blob/main/image-20210111163037671.png)
 
 1.There is no adminchannelscache() defined in top.php, it will  report an  error when directly accessing top.php
 
@@ -32,4 +32,4 @@ Information leakage
 
 ## Vulnerability recurrence:
 
-![image-20210111162943065](C:\Users\grq\AppData\Roaming\Typora\typora-user-images\image-20210111162943065.png)
+![image-20210111162943065](https://github.com/Gingsguard/ucms/blob/main/image-20210111162943065.png)
